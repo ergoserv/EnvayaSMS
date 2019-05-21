@@ -1,0 +1,1 @@
+[{"outputType":{"type":"MERGED_MANIFESTS"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":53,"versionName":"3.0.9","enabled":true,"outputFile":"app-release.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"org.envaya.sms","split":"","minSdkVersion":"4"}}]

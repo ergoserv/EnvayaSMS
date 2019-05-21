@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\project\\SMSAndroidStudio\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\project\\SMSAndroidStudio\\app\\build\\generated\\fabric\\res\\debug\\values\\com_crashlytics_build_id.xml",
+                    "from": {
+                        "startLines": "8",
+                        "startColumns": "0",
+                        "startOffsets": "311",
+                        "endColumns": "162",
+                        "endOffsets": "473"
+                    },
+                    "to": {
+                        "startLines": "39",
+                        "startColumns": "4",
+                        "startOffsets": "1348",
+                        "endColumns": "164",
+                        "endOffsets": "1508"
+                    }
+                },
+                {
+                    "source": "D:\\project\\SMSAndroidStudio\\app\\src\\main\\res\\values\\arrays.xml",
+                    "from": {
+                        "startLines": "3,16,29,35",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "62,452,800,1034",
+                        "endLines": "14,27,33,39",
+                        "endColumns": "19,19,19,19",
+                        "endOffsets": "440,788,1022,1190"
+                    },
+                    "to": {
+                        "startLines": "2,14,26,31",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "100,472,802,1025",
+                        "endLines": "13,25,30,35",
+                        "endColumns": "19,19,19,19",
+                        "endOffsets": "467,797,1020,1177"
+                    }
+                },
+                {
+                    "source": "D:\\project\\SMSAndroidStudio\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,2,18,4,9,22,13,19,10,28,12,7,32,20,14,21,3,23,16,15,5,6,17,24,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "394,57,1111,160,465,1302,784,1165,547,1707,693,329,1918,1204,868,1257,105,1358,1014,949,217,273,1061,1444,608",
+                        "endLines": "8,2,18,4,9,22,13,19,10,30,12,7,32,20,14,21,3,23,16,15,5,6,17,27,11",
+                        "endColumns": "65,46,52,55,76,54,82,37,55,90,89,63,98,51,79,43,53,84,45,63,54,54,48,40,83",
+                        "endOffsets": "455,99,1159,211,537,1352,862,1198,598,1910,778,388,2012,1251,943,1296,154,1438,1055,1008,267,323,1105,1701,687"
+                    },
+                    "to": {
+                        "startLines": "36,37,38,40,41,42,43,44,45,46,49,50,51,52,53,54,55,56,57,58,59,60,61,62,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1182,1248,1295,1513,1569,1646,1701,1784,1822,1878,2084,2174,2238,2337,2389,2469,2513,2567,2652,2698,2762,2817,2872,2921,3180",
+                        "endLines": "36,37,38,40,41,42,43,44,45,48,49,50,51,52,53,54,55,56,57,58,59,60,61,65,66",
+                        "endColumns": "65,46,52,55,76,54,82,37,55,90,89,63,98,51,79,43,53,84,45,63,54,54,48,40,83",
+                        "endOffsets": "1243,1290,1343,1564,1641,1696,1779,1817,1873,2079,2169,2233,2332,2384,2464,2508,2562,2647,2693,2757,2812,2867,2916,3175,3259"
+                    }
+                }
+            ]
+        }
+    ]
+}

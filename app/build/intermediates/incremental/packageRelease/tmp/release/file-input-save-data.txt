@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Wed Apr 17 09:04:46 EEST 2019
+1.base=D\:\\project\\SMSAndroidStudio\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=D\:\\project\\SMSAndroidStudio\\app\\build\\intermediates\\merged_assets\\release\\mergeReleaseAssets\\out
+1.path=classes.dex

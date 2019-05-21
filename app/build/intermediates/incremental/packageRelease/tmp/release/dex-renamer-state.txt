@@ -1,0 +1,4 @@
+#Wed Apr 17 09:04:46 EEST 2019
+base.0=D\:\\project\\SMSAndroidStudio\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
