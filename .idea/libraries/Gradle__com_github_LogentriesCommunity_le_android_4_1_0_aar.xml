@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.LogentriesCommunity:le_android:4.1.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/le_android-4.1.0.aar/e6abb92b42bbe78e2373e361e11400fa/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/le_android-4.1.0.aar/e6abb92b42bbe78e2373e361e11400fa/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.LogentriesCommunity/le_android/4.1.0/bd7a25c7ffb35e4c91b86943b7038cef38edf528/le_android-4.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
